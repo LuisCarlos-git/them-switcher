@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-export default function usePersistedSate(key, initialValue) {
+export default function usePersistedState(key, initialValue) {
   const [state, setState] = useState(() => {
     const storageTheme = localStorage.getItem(key);
 
