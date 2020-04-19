@@ -2,7 +2,7 @@
 ![gif da aplicação](https://github.com/LuisCarlos-git/theme-switcher/blob/master/themeGif.gif)
 ## Objetivo
 
-- alternar entre temas na aplicação
+  Aplicação criada com objetivo de alterar o tema base da interface
 
 ## Tecnologias usadas
 
